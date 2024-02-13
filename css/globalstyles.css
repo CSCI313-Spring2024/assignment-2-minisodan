@@ -17,3 +17,12 @@ img {
 p {
   font-size: large;
 }
+
+a {
+  font-size: x-large;
+  list-style: none;
+}
+
+ul {
+  list-style-type: none;
+}
