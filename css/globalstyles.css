@@ -18,11 +18,11 @@ p {
   font-size: large;
 }
 
-a {
-  font-size: x-large;
+.container a {
   list-style: none;
 }
 
-ul {
+.container ul {
   list-style-type: none;
+  font-size: x-large;
 }
